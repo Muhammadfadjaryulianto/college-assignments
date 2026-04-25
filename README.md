@@ -10,8 +10,8 @@ Repositori ini berisi kumpulan tugas praktikum selama masa perkuliahan Informati
 * **Tech Stack:** Node.js, Express.js, Prisma, MySQL.
 
 ### 2. OpenGL 3D Graphics
-* **Folder:** `opengl-3d-graphics`
-* **Deskripsi:** Implementasi objek 3 dimensi dan konfigurasi pencahayaan menggunakan OpenGL.
+* **Folder:** `konfigurasi_opengl`
+* **Deskripsi:** Implementasi objek 3 dimensi dan konfigurasi OpenGL untuk visual studio code.
 * **Tech Stack:** C++, OpenGL Library.
 
 ---
